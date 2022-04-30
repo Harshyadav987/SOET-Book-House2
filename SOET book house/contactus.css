@@ -1,0 +1,15 @@
+.a {
+    border: 2px solid green;
+    width: 25%;
+    padding-left: 30px;
+    padding-top: 10px;
+    margin: auto;
+    font-size: 20px;
+    background-image: url(./paper-texture-background-crumpled-paper-texture-background-design-paper-texture-background-crumpled-paper-texture-151402592.jpg);
+    background-size: cover;
+}
+
+body {
+    background-image: url(./pexels-shonejai-1227511.jpg);
+    background-size: cover;
+}

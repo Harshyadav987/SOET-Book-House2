@@ -1,0 +1,15 @@
+body{
+    background-image: url(./annie-spratt-h-LcVG8W1XY-unsplash.jpg);
+    background-size: 100%;
+}
+.aboutus{
+ color: whitesmoke;
+ border: 2px solid black;
+ width: 60%;
+ font-size: 30px;
+ margin-left: 20%;
+ margin-top: 5%;
+ text-align: center;
+
+
+}

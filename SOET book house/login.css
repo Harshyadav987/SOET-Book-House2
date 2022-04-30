@@ -1,0 +1,39 @@
+body{
+    background-image: url(./jason-leung-wmyE5IBiOmo-unsplash.jpg);
+    background-size: cover;
+} 
+.m{
+    border:3px white;
+    margin-left: 35%;
+    
+    width: 25%;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    background-image: url(./download.jpeg);
+    background-size: cover;
+}
+.button1{
+    margin-left: 15%;
+    font-size: 15px;
+}
+.n{
+    border: 3px white;
+    margin-left: 35%;
+    
+    width: 25%;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    background-image: url(./download.jpeg);
+    background-size: cover;
+
+}
+.j{
+font-size: 20px;
+display: inline-block;
+}
+.button2{
+    margin-left: 40px;
+    font-size: 15px;
+}
+  
+ 
